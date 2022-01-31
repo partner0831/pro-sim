@@ -1,0 +1,25 @@
+export default {
+  "login.welcome": "Welcome back!",
+  "login.description":
+    "A borderless account, with powerful, personalised tools all in one place, giving you ultimate control over your business finances.",
+  "E-mail or phone number": "E-mail or phone number",
+  "login.plhtype": "Type your e-mail or phone number",
+  "login.labelpassword": "Password",
+  "Sign in": "Sign in",
+  "or do it via other accounts": "or do it via other accounts",
+  "Don’t have an account?": "Don’t have an account?",
+  "Get started": "Get started",
+  "Create your account": "Create your account",
+  "It’s free and easy": "It’s free and easy",
+  "Your name": "Your name",
+  "Enter your name": "Enter your name",
+  Password: "Password",
+  "Type your password": "Type your password",
+  "Must be 8 characters at least": "Must be 8 characters at least",
+  "create.checktxt":
+    "By creating an account means you agree to the Terms and Conditions, and our Privacy Policy",
+  Register: "Register",
+  "Required field": "Required field",
+  "Already have an account?": "Already have an account?",
+  txtloading: "Loading...",
+};
